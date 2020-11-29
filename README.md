@@ -14,7 +14,7 @@ In this repository, there are :
 
 
 ## Project Description
-Using advanced python ressources we learnt during 7 weeks, I choosed to work on a mushroom caracteristics dataset to practice Classification.
+Using advanced python resources we learnt during 7 weeks, I choosed to work on a mushroom caracteristics dataset to practice Classification.
 
 
 ## Links
